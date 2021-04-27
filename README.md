@@ -1,6 +1,6 @@
 # SC DEFACE VERSI 3.0
-Versi ketiga, dengan tampilan animasi yg menawan. Bertema seperti virus ransmoware, dibuat hanya untuk kalian para "Defacer". Tenang kawan, sudah saya bikin responsive.
- :) kamu tinggal pakai saja
+Versi ketiga, dengan tampilan animasi gif bertema virus ransmoware, dibuat hanya untuk kalian para "Defacer", jadikan sebuah refrensi. Tenang kawan, sudah saya bikin responsive.
+ :) kamu tinggal pakai saja #10hours10project
 
 # Demo Site
 <a href="https://itsmelief.github.io/scdeface-3/">https://itsmelief.github.io/scdeface-3/</a>
